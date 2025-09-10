@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm Fadhad Wahyu Aji 👋</h1>
-<h3 align="center">Software Developer | Web & Mobile Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Software Developer | Web & Mobile Engineer | AI & Machine Learning Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working on **Web & Mobile App Development**  
-- 🔭 Exploring **Computer Vision** & **Deep Learning** (Vision Transformer, Swin Transformer)  
-- 📚 Passionate about **AI, Full-Stack Development, and Flutter Mobile Apps**  
-- 🎯 Goal: Building scalable systems and intelligent applications  
+- 🎓 Fresh graduate in **Software Engineering** with a strong passion for technology and innovation  
+- 💻 Experienced in building **Web & Mobile Applications** using modern frameworks and tools  
+- 🔭 Currently exploring **Computer Vision & Deep Learning** (Vision Transformer, Swin Transformer)  
+- 📚 Enthusiastic about **AI, Full-Stack Development, and Flutter Mobile Apps**  
+- 🎯 My goal is to create **scalable, intelligent, and impactful applications** that solve real-world problems  
 
 ---
 
@@ -25,11 +26,16 @@
 
 ### 🚀 Featured Projects
 - 🔹 **[EPFMS (Employee Performance & Fairness Monitoring System)](https://github.com/username/epfms)**  
-  `Laravel | MySQL | Role Management | Attendance & Activity Log`
+  `Laravel | MySQL | Role Management | Attendance & Activity Log`  
+  A web-based system to monitor employee performance and ensure fair workload distribution.
+
 - 🔹 **[Plant Disease Classification with Vision Transformer](https://github.com/username/padi-disease-classification)**  
-  `PyTorch | ViT | Swin Transformer | EfficientNet | Inception | ResNet`
+  `PyTorch | ViT | Swin Transformer | EfficientNet | Inception | ResNet`  
+  Deep learning project for detecting paddy leaf diseases using state-of-the-art computer vision models.
+
 - 🔹 **[Recipe App (Flutter + Laravel API)](https://github.com/username/recipe-app)**  
-  `Flutter | Laravel API | Firebase | Shared Preferences`
+  `Flutter | Laravel API | Firebase | Shared Preferences`  
+  A mobile recipe app with authentication, category management, and CRUD features.
 
 ---
 
@@ -63,4 +69,4 @@
 
 ---
 
-⭐ **“Learn, build, and innovate.”**  
+⭐ **“Learn, build, and innovate to create real impact.”**  

@@ -39,17 +39,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadhadwahyuaji&show_icons=true&theme=tokyonight" alt="github stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhadwahyuaji&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhadwahyuaji&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fadhadwahyuaji&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadhadwahyuaji&theme=tokyonight" alt="Most Commit Language" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadhadwahyuaji&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadhadwahyuaji&theme=tokyonight&utcOffset=7" alt="Commit Time" height="150"/>
 </p>
 
 ---
 
-### 🔥 Streak & Contribution
+### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fadhadwahyuaji&theme=tokyonight" alt="streak"/>
+  <img src="https://github.com/fadhadwahyuaji/fadhadwahyuaji/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
